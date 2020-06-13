@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1592063208 source:d:\graph coloring\main.cpp
+	<iostream>
+	"graphtype.cpp"
+	"graphtype.h"
+
+1592063208 source:d:\graph coloring\graphtype.cpp
+	"graphtype.h"
+	<iostream>
+
+1592061578 d:\graph coloring\graphtype.h
+
+1592063208 d:\graph coloring\graphtype.cpp
+	"graphtype.h"
+	<iostream>
+
