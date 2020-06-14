@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1582222162 source:c:\users\zahid\desktop\task1\main.cpp
+	"unsortedtype.h"
+	"unsortedtype.cpp"
+	"studentinfo.h"
+	<iostream>
+
+1582222162 c:\users\zahid\desktop\task1\unsortedtype.h
+	"studentinfo.h"
+
+1582222162 c:\users\zahid\desktop\task1\studentinfo.h
+	<iostream>
+
+1582222748 c:\users\zahid\desktop\task1\unsortedtype.cpp
+	"unsortedtype.h"
+	"studentinfo.h"
+	<iostream>
+
+1582222748 source:c:\users\zahid\desktop\task1\unsortedtype.cpp
+	"unsortedtype.h"
+	"studentinfo.h"
+	<iostream>
+
+1582222748 source:c:\users\zahid\desktop\task1lab4\unsortedtype.cpp
+	"unsortedtype.h"
+	"studentinfo.h"
+	<iostream>
+
+1582222162 c:\users\zahid\desktop\task1lab4\unsortedtype.h
+	"studentinfo.h"
+
+1582371153 c:\users\zahid\desktop\task1lab4\studentinfo.h
+	<iostream>
+
+1589954433 source:c:\users\zahid\desktop\task1lab4\main.cpp
+	"unsortedtype.h"
+	"unsortedtype.cpp"
+	"studentinfo.h"
+	<iostream>
+	<string>
+
+1592103861 c:\users\zahid\desktop\task1lab4\unsortedtype.cpp
+	"unsortedtype.h"
+	"studentinfo.h"
+	<iostream>
+
