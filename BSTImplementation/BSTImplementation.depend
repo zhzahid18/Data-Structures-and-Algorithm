@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1586627119 source:c:\users\zahid\desktop\bstimplementation\main.cpp
+	"BinarySearchTree.cpp"
+	<iostream>
+
+1586627119 source:c:\users\zahid\desktop\bstimplementation\binarysearchtree.cpp
+	"BinarySearchTree.h"
+	<iostream>
+
+1586627119 c:\users\zahid\desktop\bstimplementation\binarysearchtree.h
+	<iostream>
+
+1586627119 c:\users\zahid\desktop\bstimplementation\binarysearchtree.cpp
+	"BinarySearchTree.h"
+	<iostream>
+
