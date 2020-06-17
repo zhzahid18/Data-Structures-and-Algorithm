@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1582285096 source:c:\users\zahid\desktop\task1lab5\main.cpp
+
+1582294815 source:c:\users\zahid\desktop\task1lab5\timestamp.cpp
+	"timestamp.h"
+	<iostream>
+
+1582297005 c:\users\zahid\desktop\task1lab5\timestamp.h
+	<iostream>
+
+1582296778 source:c:\users\zahid\desktop\task1lab5\sortedtype.cpp
+	"sortedtype.h"
+	"timestamp.h"
+	<iostream>
+
+1582295099 c:\users\zahid\desktop\task1lab5\sortedtype.h
+	"timestamp.h"
+	<iostream>
+
